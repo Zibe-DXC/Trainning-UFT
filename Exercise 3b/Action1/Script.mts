@@ -1,4 +1,4 @@
-﻿Const desiredScore = 9.3  ' just  nice to have this at the top
+﻿Const desiredScore = 9.3 
 
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("HeadphonesCategoryTxt").Click @@ script infofile_;_ZIP::ssf1.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Beats Studio 2 Over-Ear").Click @@ script infofile_;_ZIP::ssf2.xml_;_
